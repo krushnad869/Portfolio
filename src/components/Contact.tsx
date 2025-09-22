@@ -21,8 +21,8 @@ const Contact = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to collaborate on your next project? Let's discuss how we can work together
-            to achieve your digital goals.
+            Looking for a developer who understands both frontend development and SEO? I’d love to collaborate and help you achieve measurable digital growth.
+    
           </p>
         </div>
 
@@ -31,8 +31,8 @@ const Contact = () => {
           <div className="animate-slideInLeft">
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Let's Connect</h3>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              I'm always interested in discussing new opportunities, innovative projects,
-              and ways to help businesses grow through effective web development and SEO strategies.
+             I’m always open to meaningful conversations about new opportunities and innovative projects.
+              If you’re looking to grow your business with effective web development and SEO strategies, let’s connect and explore how we can collaborate.
             </p>
 
             <div className="space-y-6">
