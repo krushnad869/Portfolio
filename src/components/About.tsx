@@ -19,10 +19,10 @@ const About = () => {
             <div className="bg-white rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">My Journey</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                I began my professional journey at PowerDrive as a Frontend Developer and SEO Executive, 
-                where I honed my skills in responsive web design and website optimization. This experience 
-                laid the foundation for my expertise in creating user-friendly websites that perform 
-                exceptionally well in search engines.
+               I began my career at PowerDrive as a Frontend Developer & SEO Executive, 
+                where I gained hands-on experience in building responsive websites and optimizing them for search engines. 
+                This role helped me master the fundamentals of creating user-friendly, high-performing websites that deliver real value.
+                
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
                 Currently, I'm working at Shiv Aurica as an SEO Executive, where I focus on improving 
@@ -30,8 +30,8 @@ const About = () => {
                 My approach combines technical expertise with creative problem-solving to deliver measurable results.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                I'm passionate about staying up-to-date with the latest trends in web development and SEO, 
-                constantly learning and adapting to the ever-evolving digital landscape.
+               I’m deeply passionate about staying updated with the latest trends in web development and SEO. 
+                Constant learning and adapting to the evolving digital landscape drives me to deliver solutions that are not only innovative but also future-ready.
               </p>
             </div>
           </div>
