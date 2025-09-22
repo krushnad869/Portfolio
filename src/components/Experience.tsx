@@ -9,14 +9,47 @@ const Experience = () => {
       period: 'Current Position',
       location: 'Present',
       type: 'Full-time',
-      description: 'Currently focused on improving keyword rankings, conducting comprehensive technical audits, and developing effective backlink strategies. Responsible for full website SEO audits and implementing data-driven optimization strategies.',
+      description: 'Driving end-to-end SEO initiatives to boost organic visibility, keyword rankings, and website performance. Skilled in managing the complete SEO lifecycle — from technical audits and on-page optimization to off-page strategies and backlink building — delivering measurable improvements in search engine rankings and traffic growth.',
       achievements: [
-        'Improved keyword rankings for multiple client websites',
-        'Conducted comprehensive technical SEO audits',
-        'Developed and executed successful backlink strategies',
-        'Implemented on-page and off-page SEO optimizations',
+🔹 On-Page SEO
+
+Optimized meta tags, titles, descriptions, headers (H1–H6), and website content for multiple client websites.
+
+Enhanced page speed, mobile responsiveness, and Core Web Vitals for better search performance.
+
+Implemented schema markup, structured data, and internal linking strategies for improved indexing and SERP appearance.
+
+Regularly performed content gap analysis and optimized landing pages for target keywords.
+
+🔹 Off-Page SEO & Backlink Strategies
+
+Designed and executed high-quality backlink strategies, improving domain authority and referral traffic.
+
+Built niche-relevant backlinks through guest posting, blogger outreach, and digital PR campaigns.
+
+Analyzed competitors’ link profiles and developed link-building campaigns to bridge gaps.
+
+"Maintained a natural, diversified backlink profile while avoiding toxic links."
+
+"🔹 Technical SEO"
+
+'Conducted comprehensive SEO audits to identify and resolve crawl errors, broken links, and indexing issues.'
+
+'Optimized XML sitemaps, robots.txt, canonical tags, and site architecture.'
+
+'Improved website crawlability and indexability for both large-scale and small business websites.'
+
+'🔹 Full SEO Workflow"
+
+"Performed keyword research & mapping to align with business goals."
+
+"Implemented on-page + off-page SEO campaigns with measurable KPIs."
+
+'Monitored performance using Google Analytics, Google Search Console, and SEO tools (Ahrefs, SEMrush, Screaming Frog)."
+
+"Prepared detailed monthly SEO reports highlighting growth, insights, and next steps.'
       ],
-      technologies: ['Google Search Console', 'Google Analytics', 'SEO Tools', 'Technical SEO'],
+      technologies: ['Google Search Console', 'Google Analytics', 'SEO Tools', 'Technical SEO''On-Page SEO''Off-Page SEO'],
     },
     {
       title: 'Frontend Developer & SEO Executive',
