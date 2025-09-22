@@ -44,7 +44,7 @@ const About = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900 mb-2">Education</h4>
-                  <p className="text-gray-600">Diploma in IT Engineering</p>
+                  <p className="text-gray-600"> IT Engineering</p>
                 </div>
               </div>
 
